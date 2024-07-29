@@ -1,6 +1,6 @@
 TgCrypto
 aiohttp
-yt-dlp==2023.10.07
+yt-dlp
 beautifulsoup4
 hachoir
 numpy
